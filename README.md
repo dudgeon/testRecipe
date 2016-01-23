@@ -1,15 +1,15 @@
-# testRecipe
+# name: testRecipe
 ![test image](https://raw.githubusercontent.com/dudgeon/testRecipe/master/test-image.png)
 
 testing github for creating a recipe and pinning it
 
-# ingredients
+# ingredients:
 
 - 1 apple
 - 2 bananas
 - 3 blueberries
  
-# directions
+# directions:
 
 1. eat apple
 2. eat bananas
