@@ -5,7 +5,7 @@ testing github for creating a recipe and pinning it
 
 # ingredients:
 
-- 1 apple
+- [itemprop="ingredient"]1 apple
 - 2 bananas
 - 3 blueberries
  
